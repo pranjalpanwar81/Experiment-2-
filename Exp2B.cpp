@@ -1,6 +1,6 @@
 // NAME - Pranjal Panwar
 // PRN - 23070123164
-// EXPERIMENT - 2A
+// EXPERIMENT - 2(B)
 
 #include<iostream>
 using namespace std;
