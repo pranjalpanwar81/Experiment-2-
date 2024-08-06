@@ -1,6 +1,6 @@
-// NAME - Shivendra Dwivedi
-// PRN - 23070123122
-// EXPERIMENT - 2 
+// NAME - Pranjal Panwar
+// PRN - 23070123164
+// EXPERIMENT - 2A
 
 #include<iostream>
 using namespace std;
