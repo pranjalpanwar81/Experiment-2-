@@ -1,5 +1,5 @@
-// NAME - Shivendra Dwivedi
-// PRN - 23070123122 
+// NAME - Pranjal Panwar
+// PRN - 23070123164 
 // EXPERIMENT - 2(A)
 
 #include<iostream>
